@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\jrossi04\marvel-app\src\pages\ContactPage.test.jsx">
+    <testCase name="render ContactPage component" duration="49"/>
+  </file>
+</testExecutions>
