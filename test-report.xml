@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="C:\Users\jrossi04\marvel-app\src\pages\ContactPage.test.jsx">
-    <testCase name="render ContactPage component" duration="49"/>
+  <file path="C:\Users\amulot\Marvel-App2-main\src\components\NumberOfCharacters.test.jsx">
+    <testCase name="renders &quot;There is no character&quot; when characters array is empty" duration="17"/>
+    <testCase name="renders the correct number of characters when characters array is not empty" duration="2"/>
+    <testCase name="renders &quot;There is no character&quot; when no characters are provided" duration="1"/>
   </file>
 </testExecutions>
