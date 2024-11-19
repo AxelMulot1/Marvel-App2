@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\amulot\Marvel-App2-main\src\components\NumberOfCharacters.test.jsx">
+  </file>
+  <file path="C:\Users\amulot\Marvel-App2-main\src\components\CharactersList.test.jsx">
+  </file>
+  <file path="C:\Users\amulot\Marvel-App2-main\src\components\CharacterDetail.test.jsx">
+  </file>
+</testExecutions>
