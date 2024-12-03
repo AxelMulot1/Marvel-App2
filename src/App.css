@@ -1,0 +1,87 @@
+/*
+  App.css
+  This file contains the styles for the App component.
+*/
+html, body {
+  height: 100%;  /* This is needed to make the footer stick to the bottom of the page */
+  margin: 0; /* Remove default margin */
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0;
+}
+
+/* This is needed to make the footer stick to the bottom of the page */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* This is needed to make the footer stick to the bottom of the page */
+main {
+  flex: 1;
+}
+
+/* This is needed to make the footer stick to the bottom of the page */
+footer {
+  margin: 0;
+  padding: 20px;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Navigation */
+nav {
+  background: #444;
+  padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 15px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a.active {
+  color: salmon
+}
+
+li a {
+  color: #333;
+  text-decoration: none;
+}
